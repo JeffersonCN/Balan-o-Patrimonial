@@ -52,13 +52,13 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="MetroFramework">
-      <HintPath>..\..\..\..\..\Documents\Visual Studio 2015\metro-dlls\MetroFramework.dll</HintPath>
+      <HintPath>..\lib\MetroFramework.dll</HintPath>
     </Reference>
     <Reference Include="MetroFramework.Design">
-      <HintPath>..\..\..\..\..\Documents\Visual Studio 2015\metro-dlls\MetroFramework.Design.dll</HintPath>
+      <HintPath>..\lib\MetroFramework.Design.dll</HintPath>
     </Reference>
     <Reference Include="MetroFramework.Fonts">
-      <HintPath>..\..\..\..\..\Documents\Visual Studio 2015\metro-dlls\MetroFramework.Fonts.dll</HintPath>
+      <HintPath>..\lib\MetroFramework.Fonts.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
