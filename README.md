@@ -1,2 +1,2 @@
-# Balan-o-Patrimonial
-Sistema que realiza cálculo de balanço patrimonial e DRE desenvolvido em VB.Net
+# Sistema gerador de Balanço Patrimonial e DRE
+Sistema desenvolvido em VB.Net que realiza cálculo de balanço patrimonial e DRE baseado nas contas do razonete/balancete e que foi utilizado como parte da avaliação na disciplina de Contabilidade do curso de Análise e Desenvolvimento de Sistemas da FATEC Praia Grande.
